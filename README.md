@@ -10,7 +10,7 @@
 
 # Project : E-Commerce Website Myntra Clone
 
-[image](https://github.com/user-attachments/assets/886be080-10fc-4d93-bf84-9c83682bd031)
+![image](https://github.com/user-attachments/assets/ef0d9bf5-bb10-4267-9232-44307ef1fd32)
 
 <h3>Objective : The objective of this project is to create a clone of the Myntra website, allowing users to browse and purchase products online, thereby replicating the functionalities of a real e-commerce platform.</h3>
 
